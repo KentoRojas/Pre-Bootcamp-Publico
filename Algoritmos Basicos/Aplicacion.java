@@ -1,4 +1,4 @@
-import clases.Algoritmos;  // Importar la clase Algoritmos desde el paquete clases
+import clases.Algoritmos; 
 
 public class Aplicacion {
 
